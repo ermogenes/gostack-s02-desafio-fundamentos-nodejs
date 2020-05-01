@@ -2,8 +2,8 @@
 
 My solution to the Rockeseat's GoStack challenge.
 
-<!-- ✔ All tests passed.-->
-_⏳ work in progress..._
+✔ All tests passed.
+<!-- _⏳ work in progress..._ -->
 
 To run tests:
 
